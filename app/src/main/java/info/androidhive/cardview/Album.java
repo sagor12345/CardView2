@@ -1,8 +1,6 @@
 package info.androidhive.cardview;
 
-/**
- * Created by Lincoln on 18/05/16.
- */
+
 public class Album {
     private String name;
     private int numOfSongs;
